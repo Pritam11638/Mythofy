@@ -1,0 +1,18 @@
+mysql:
+  enabled: true # If enabled use MySQL otherwise use sqlite3.
+  hostname: localhost
+  port: 3306
+  username: root
+  password: Pritam@2009
+  database-name: minecraft
+
+# Currencies
+economy:
+  money:
+    name: Money
+    symbol: $
+
+afk-ads-cycle-speed: 20 #in seconds
+afk-ads:
+  - Buy VIP at just 5$
+  - PvP tournament in 28 days!

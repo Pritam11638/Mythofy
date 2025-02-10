@@ -1,0 +1,8 @@
+name: Mythofy
+version: '1.0-beta'
+main: io.pritam11638.mythofy.Mythofy
+prefix: Mythofy
+authors: [Pritam]
+description: Mythofy core plugin.
+api-version: '1.21'
+loader: io.pritam11638.mythofy.boot.MythofyLoader
